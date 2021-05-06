@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+
+.Judul {
+    font-family: 'Oswald', sans-serif;
+    color: #05436c;
+}
+
+.konten1 {
+    text-decoration: none;
+    font-style: none;
+    color: #05436c;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    font-style: none;
+}
+
+.Sponsor {
+    font-family: 'Oswald', sans-serif;
+}
+
+.m1 {
+    border: 1px solid #9ce8e8;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.beritaPilihan {
+    height: 400px;
+    width: 360px;
+    border: 1px solid yellowgreen;
+    margin-top: 1em;
+    margin-right: 10px;
+}
+
+.beritaRekomendasi {
+    height: 400px;
+    width: 360px;
+    border: 1px solid salmon;
+    margin-top: 1em;
+    margin-right: 10px;
+
+}
+
+.Viral {
+    height: 400px;
+    width: 360px;
+    border: 1px solid skyblue;
+    margin-top: 1em;
+    margin-right: 10px;
+
+}
+
+.content {
+    background: #F1EFFF;
+    color: #333;
+    margin: 5px;
+    padding: 3px;
+    box-shadow: 0 0 3px #7e7e7e;
+    margin-top: 10px;
+}
+
+.MainBerita {
+    background-color: #fede41;
+}
