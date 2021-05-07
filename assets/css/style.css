@@ -6,10 +6,17 @@
     color: #05436c;
 }
 
+.k1 {
+    font-family: 'Oswald', sans-serif;
+    color: white;
+
+
+}
+
 .konten1 {
     text-decoration: none;
     font-style: none;
-    color: #05436c;
+    color: #1e96fc;
     list-style: none;
 }
 
@@ -65,6 +72,14 @@ a {
     margin-top: 10px;
 }
 
-.MainBerita {
-    background-color: #fede41;
+.selengkapnya {
+    color: #1e96fc;
+}
+
+.c1 {
+    color: #072ac8;
+}
+
+.kategori {
+    color: #1e96fc;
 }
